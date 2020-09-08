@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\DienTichHCN\Diện tích HCN\bin\Debug\netcoreapp3.1\Diện tích HCN.exe
+C:\Users\PC\source\repos\DienTichHCN\Diện tích HCN\bin\Debug\netcoreapp3.1\Diện tích HCN.deps.json
+C:\Users\PC\source\repos\DienTichHCN\Diện tích HCN\bin\Debug\netcoreapp3.1\Diện tích HCN.runtimeconfig.json
+C:\Users\PC\source\repos\DienTichHCN\Diện tích HCN\bin\Debug\netcoreapp3.1\Diện tích HCN.runtimeconfig.dev.json
+C:\Users\PC\source\repos\DienTichHCN\Diện tích HCN\bin\Debug\netcoreapp3.1\Diện tích HCN.dll
+C:\Users\PC\source\repos\DienTichHCN\Diện tích HCN\bin\Debug\netcoreapp3.1\Diện tích HCN.pdb
+C:\Users\PC\source\repos\DienTichHCN\Diện tích HCN\obj\Debug\netcoreapp3.1\Diện tích HCN.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\DienTichHCN\Diện tích HCN\obj\Debug\netcoreapp3.1\Diện tích HCN.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\DienTichHCN\Diện tích HCN\obj\Debug\netcoreapp3.1\Diện tích HCN.AssemblyInfo.cs
+C:\Users\PC\source\repos\DienTichHCN\Diện tích HCN\obj\Debug\netcoreapp3.1\Diện tích HCN.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\DienTichHCN\Diện tích HCN\obj\Debug\netcoreapp3.1\Diện tích HCN.dll
+C:\Users\PC\source\repos\DienTichHCN\Diện tích HCN\obj\Debug\netcoreapp3.1\Diện tích HCN.pdb
+C:\Users\PC\source\repos\DienTichHCN\Diện tích HCN\obj\Debug\netcoreapp3.1\Diện tích HCN.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Diện tích HCN/1.0.0": {
+        "runtime": {
+          "Diện tích HCN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Diện tích HCN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
