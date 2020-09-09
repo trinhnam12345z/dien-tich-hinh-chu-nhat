@@ -11,3 +11,16 @@ C:\Users\PC\source\repos\DienTichHCN\Diện tích HCN\obj\Debug\netcoreapp3.1\Di
 C:\Users\PC\source\repos\DienTichHCN\Diện tích HCN\obj\Debug\netcoreapp3.1\Diện tích HCN.dll
 C:\Users\PC\source\repos\DienTichHCN\Diện tích HCN\obj\Debug\netcoreapp3.1\Diện tích HCN.pdb
 C:\Users\PC\source\repos\DienTichHCN\Diện tích HCN\obj\Debug\netcoreapp3.1\Diện tích HCN.genruntimeconfig.cache
+E:\C#\dien-tich-hinh-chu-nhat\Diện tích HCN\bin\Debug\netcoreapp3.1\Diện tích HCN.exe
+E:\C#\dien-tich-hinh-chu-nhat\Diện tích HCN\bin\Debug\netcoreapp3.1\Diện tích HCN.deps.json
+E:\C#\dien-tich-hinh-chu-nhat\Diện tích HCN\bin\Debug\netcoreapp3.1\Diện tích HCN.runtimeconfig.json
+E:\C#\dien-tich-hinh-chu-nhat\Diện tích HCN\bin\Debug\netcoreapp3.1\Diện tích HCN.runtimeconfig.dev.json
+E:\C#\dien-tich-hinh-chu-nhat\Diện tích HCN\bin\Debug\netcoreapp3.1\Diện tích HCN.dll
+E:\C#\dien-tich-hinh-chu-nhat\Diện tích HCN\bin\Debug\netcoreapp3.1\Diện tích HCN.pdb
+E:\C#\dien-tich-hinh-chu-nhat\Diện tích HCN\obj\Debug\netcoreapp3.1\Diện tích HCN.csprojAssemblyReference.cache
+E:\C#\dien-tich-hinh-chu-nhat\Diện tích HCN\obj\Debug\netcoreapp3.1\Diện tích HCN.AssemblyInfoInputs.cache
+E:\C#\dien-tich-hinh-chu-nhat\Diện tích HCN\obj\Debug\netcoreapp3.1\Diện tích HCN.AssemblyInfo.cs
+E:\C#\dien-tich-hinh-chu-nhat\Diện tích HCN\obj\Debug\netcoreapp3.1\Diện tích HCN.csproj.CoreCompileInputs.cache
+E:\C#\dien-tich-hinh-chu-nhat\Diện tích HCN\obj\Debug\netcoreapp3.1\Diện tích HCN.dll
+E:\C#\dien-tich-hinh-chu-nhat\Diện tích HCN\obj\Debug\netcoreapp3.1\Diện tích HCN.pdb
+E:\C#\dien-tich-hinh-chu-nhat\Diện tích HCN\obj\Debug\netcoreapp3.1\Diện tích HCN.genruntimeconfig.cache

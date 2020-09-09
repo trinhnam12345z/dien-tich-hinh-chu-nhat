@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\source\\repos\\DienTichHCN\\Diện tích HCN\\Diện tích HCN.csproj": {}
+    "E:\\C#\\dien-tich-hinh-chu-nhat\\Diện tích HCN\\Diện tích HCN.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\source\\repos\\DienTichHCN\\Diện tích HCN\\Diện tích HCN.csproj": {
+    "E:\\C#\\dien-tich-hinh-chu-nhat\\Diện tích HCN\\Diện tích HCN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\DienTichHCN\\Diện tích HCN\\Diện tích HCN.csproj",
+        "projectUniqueName": "E:\\C#\\dien-tich-hinh-chu-nhat\\Diện tích HCN\\Diện tích HCN.csproj",
         "projectName": "Diện tích HCN",
-        "projectPath": "C:\\Users\\PC\\source\\repos\\DienTichHCN\\Diện tích HCN\\Diện tích HCN.csproj",
+        "projectPath": "E:\\C#\\dien-tich-hinh-chu-nhat\\Diện tích HCN\\Diện tích HCN.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\source\\repos\\DienTichHCN\\Diện tích HCN\\obj\\",
+        "outputPath": "E:\\C#\\dien-tich-hinh-chu-nhat\\Diện tích HCN\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
